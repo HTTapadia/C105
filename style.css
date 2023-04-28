@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.heading {
+    width: 80%;
+    font: 22px;
+}
+
+.name_of_objects{
+    color: ghostwhite;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_accuracy, #result_object_name{
+    color: ghostwhite;
+}
